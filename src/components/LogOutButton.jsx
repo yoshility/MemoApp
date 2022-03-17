@@ -1,5 +1,6 @@
 /* eslint-disable linebreak-style */
 /* eslint-disable no-trailing-spaces */
+/* eslint-disable react/jsx-no-bind */
 import React from 'react';
 import {
   TouchableOpacity, Text, StyleSheet, Alert,
